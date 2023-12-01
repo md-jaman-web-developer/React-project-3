@@ -1,9 +1,10 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React 10 PRACTICE PROJECT FOR BEGINNERS
+# Project 2 - CONTACT US PAGE
 
-Currently, two official plugins are available:
+![React Course](https://github.com/md-jaman-web-developer/React-project-3/blob/main/Screenshot%20from%202023-12-01%2019-41-07.png)
+<img width="1387" alt="image" src="https://github.com/md-jaman-web-developer/React-project-3/blob/main/Screenshot%20from%202023-12-01%2019-41-07.png">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# React-project-3
+
+Project that we are going to build in this complete practice course
+https://www.figma.com/file/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?type=design&node-id=2-5&t=orp3GQEAXhmtQcgG-0
